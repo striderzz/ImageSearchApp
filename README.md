@@ -1,2 +1,2 @@
 # ImageSearchApp
- Image Search Webapp using Unsplash API 
+image search app utilizing the Unsplash API to retrieve image data, made using vanilla JavaScript, HTML5, and CSS3.
